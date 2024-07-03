@@ -1,0 +1,7 @@
+.border{
+    border: 40px solid brown;
+    width: 150px;
+    height: 150px;
+    /* overflow: scroll; */
+    overflow: scroll;
+}
